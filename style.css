@@ -1,0 +1,15 @@
+body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: papayawhip;
+    background-color:rgb(101, 25, 25);
+    text-align: center;
+    padding: 30px 0;
+}
+
+p { 
+    color: papayawhip;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 500px;
+    padding: 5px 0;
+}
